@@ -1,0 +1,28 @@
+{
+  "product": [
+    {
+      "id": "9e2f",
+      "image": "https://www.kbb.com/wp-content/uploads/2022/08/2022-mercedes-amg-eqs-front-left-3qtr.jpg",
+      "title": "Car",
+      "description": "Good car and nice build quality",
+      "category": "electronics",
+      "price": "1200000"
+    },
+    {
+      "id": "d2da",
+      "image": "https://imgd-ct.aeplcdn.com/320x200/n/cw/ec/139651/curvv-exterior-right-front-three-quarter.jpeg?isig=0&q=80",
+      "title": "cars",
+      "description": "Good car and nice build quality",
+      "category": "electronics",
+      "price": "1200000"
+    },
+    {
+      "id": "3a6d",
+      "image": "https://imgd-ct.aeplcdn.com/320x200/n/cw/ec/139651/curvv-exterior-right-front-three-quarter.jpeg?isig=0&q=80",
+      "title": "cars",
+      "description": "Good car and nice build quality",
+      "category": "electronics",
+      "price": "1200000"
+    }
+  ]
+}
